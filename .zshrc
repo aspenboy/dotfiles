@@ -99,7 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-neofetch
+# neofetch
 
 export VIRTUALENVWRAPPER_PYTHON=/home/linuxbrew/.linuxbrew/bin/python3
 export WORKON_HOME=$HOME/.virtualenvs
