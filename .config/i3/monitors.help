@@ -1,0 +1,10 @@
+if workspace 1 is not showing:
+
+	xrandr --listmonitors
+
+then turn off the one with asteriks:
+
+	xrandr --output <name> --off
+
+should bring back workspace 1.
+
