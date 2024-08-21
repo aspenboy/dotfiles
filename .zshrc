@@ -65,6 +65,9 @@ eval "$(fzf --zsh)"
 eval "$(direnv hook zsh)"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
+# colors
+(cat ~/.cache/wal/sequences &)
+
 # Preferred editor for local and remote sessions
 if [[ -n $SSH_CONNECTION ]]; then
   export EDITOR='vim'

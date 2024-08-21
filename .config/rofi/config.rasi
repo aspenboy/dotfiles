@@ -145,4 +145,6 @@ configuration {
       sorting-method:    "name";
   }
 }
-@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+
+/* Light theme. Taken from pywal16 */
+@import "~/.cache/wal/colors-rofi-light"
