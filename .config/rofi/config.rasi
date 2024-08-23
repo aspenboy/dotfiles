@@ -1,6 +1,8 @@
 configuration {
 /*	modi: "window,run,ssh,drun";*/
-/*	font: "mono 12";*/
+    font: "FiraCode Nerd Font Mono 10";
+    hide-scrollbar: true;
+    scroll-method: 0;
 /*	location: 0;*/
 /*	yoffset: 0;*/
 /*	xoffset: 0;*/
@@ -39,7 +41,6 @@ configuration {
 /*	filter: ;*/
 /*	dpi: -1;*/
 /*	threads: 0;*/
-/*	scroll-method: 0;*/
 /*	window-format: "{w}    {c}   {t}";*/
 /*	click-to-exit: true;*/
 /*	max-history-size: 25;*/
